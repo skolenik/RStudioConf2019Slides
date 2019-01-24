@@ -19,6 +19,7 @@ Pull requests welcome! Or add an issue, or tweet
 - [Data Science in the Tidyverse](https://github.com/AmeliaMN/data-science-in-tidyverse.git)
 - Deep learning with R (Tensorflow) [day 1](https://github.com/Scavetta/conf_tensorflow_training_day1) and [day 2](https://github.com/rstudio/conf_tensorflow_training_day2)
 - [Introduction to Shiny and R Markdown workshop](https://github.com/dtkaplan/shinymark)
+- [Rstudio Pro Products Admin Training](https://colorado.rstudio.com/rsc/pro-admin-training/overview/Overview.html)
 - [Shiny in Production](https://github.com/kellobri/shiny-prod-book)
 - [Train-the-trainer workshop](https://github.com/rstudio-education/teaching-workshop-2019-01)
 - [What they forgot to teach you about R](https://jennybc.github.io/wtf-2019-rsc/)
@@ -362,5 +363,7 @@ Center for Lifespan Changes in Brain and Cognition, Oslo, Norway,
 - Eric Scott, [LeafyEricScott](https://twitter.com/LeafyEricScott), Tufts University,
 [RStudio::conf reflections](http://www.ericrscott.com/2019/01/23/rstudio-conf-reflections/)
 
-- Pranav Dar, [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!
-](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
+
+- Eric Nantz, [@thercast](https://twitter.com/theRcast), [R-Podcast episode 26: the podcast trifecta from `rstudio::conf`](https://r-podcast.org/26)
+
+- Pranav Dar, [Top 10 Presentations from rstudio::conf 2019 – The Best R Conference of the Year!](https://www.analyticsvidhya.com/blog/2019/01/top-highlights-rstudioconf-2019-best-r-conference/)
